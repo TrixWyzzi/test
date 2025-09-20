@@ -1,0 +1,26 @@
+{
+	"title": "Gokura",
+	"slug": "gokura",
+	"description": "fiou",
+	"artist": "Yuto",
+	"author": "Yuto",
+	"cover": "https://media.hachette.fr/imgArticle/PIKA/2024/9782811686161-001-X.jpeg?source=web",
+	"chapters": {
+		"1": {
+			"title": "1",
+			"volume": "1",
+			"last_updated": "1616368746",
+			"groups": {
+				"Noir Mout": "/proxy/api/imgur/chapter/a/JBAaQqB"
+			}
+		},
+		"2": {
+			"title": "2",
+			"volume": "1",
+			"last_updated": "1616368747",
+			"groups": {
+				"Noir Mout": "/proxy/api/imgur/chapter/a/XXXXX"
+			}
+		}
+	}
+}
